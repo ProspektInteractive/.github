@@ -3,7 +3,7 @@
 ### About us
 Hey there! We're "Prospekt Interactive" a development team consiting of talented programmers, mappers, and artists, currently developing a Source Engine project. Stay tuned.
 ### How to join us?
-If you'd like to join the Prospekt Interactive development team, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfgQh3ntqPLmI0XaWam3MaqCzBSRzGydItADXZSDi-8RkqErw/viewform?usp=dialog). We have a vast-variety of jobs we need! (NOTE: You won't be payed, this is a volounteer position).
+If you'd like to join the Prospekt Interactive development team, [fill out this form](https://docs.google.com/forms/d/e/1FAIpQLSfgQh3ntqPLmI0XaWam3MaqCzBSRzGydItADXZSDi-8RkqErw/viewform?usp=dialog). We have a vast-variety of jobs we need! (NOTE: You won't be paid, this is a volounteer position).
 ### Current projects
 - Northern Prospekt.
 
