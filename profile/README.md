@@ -8,7 +8,7 @@ If you'd like to join the Prospekt Interactive development team, [fill out this 
 - Northern Prospekt.
 
 ## Members
-- [Mohamed Ashraf](https://github.com/DecalOverdose) - Co-Lead, Programmer, Level Designer.
+- [Sarah](https://github.com/DecalOverdose) - Co-Lead, Programmer, Level Designer.
 - [Inflesi](https://github.com/Inflesi) - Co-Lead, Level Designer.
 - [maksw2](https://github.com/maksw2) - Programmer.
 - [MunchBunch3rd](https://github.com/MunchBunch3rd) - Level Designer
