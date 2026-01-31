@@ -11,7 +11,7 @@ If you'd like to join the Prospekt Interactive development team, [fill out this 
 - [DecalOverdose](https://github.com/DecalOverdose) - Co-Lead, Programmer, Level Designer.
 - [Inflesi](https://github.com/Inflesi) - Co-Lead, Level Designer.
 - [maksw2](https://github.com/maksw2) - Programmer.
-- [MunchBunch3rd](https://github.com/MunchBunch3rd) - Level Designer
+- [MunchBunch3rd](https://github.com/MunchBunch3rd) - Level Designer.
 - [BartG1014Dev](https://github.com/BartG1014Dev) - Programmer.
-- [ThePixelMoon](https://github.com/ThePixelMoon)
-- [Niko](https://www.moddb.com/members/lazymod)
+- [ThePixelMoon](https://github.com/ThePixelMoon) - Programmer.
+- [Niko](https://www.moddb.com/members/lazymod) - Programmer.
