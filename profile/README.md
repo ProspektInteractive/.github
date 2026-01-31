@@ -13,3 +13,5 @@ If you'd like to join the Prospekt Interactive development team, [fill out this 
 - [maksw2](https://github.com/maksw2) - Programmer.
 - [MunchBunch3rd](https://github.com/MunchBunch3rd) - Level Designer
 - [BartG1014Dev](https://github.com/BartG1014Dev) - Programmer.
+- [ThePixelMoon](https://github.com/ThePixelMoon)
+- [Niko](https://www.moddb.com/members/lazymod)
